@@ -11,6 +11,7 @@ files[] = {"id":"496708-fbc6087f-59cb-4201-87ab-b06f5b9920f3","path":"New Collec
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
+files[] = {"path":"My file.yaml","metaData":{}}
 files[] = {"path":"zomato.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
